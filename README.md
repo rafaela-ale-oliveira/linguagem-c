@@ -1,2 +1,2 @@
-# Aprendendo logica de programação
+# Aprendendo lógica de programação
 
