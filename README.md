@@ -1,1 +1,2 @@
-# linguagem-c
+# Aprendendo logica de programação
+com linguagem-c
